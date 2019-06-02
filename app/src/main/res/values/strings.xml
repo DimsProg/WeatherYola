@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YO Погода</string>
+    <string name="city_name">Йошкар-Ола</string>
+    <string name="humidity_header">Влажность</string>
+    <string name="wind_header">Ветер</string>
+    <string name="pressure_header">Давление</string>
+    <string name="sunrise_header">Восход</string>
+    <string name="sunset_header">Заход</string>
+    <string name="coord_header">Координаты</string>
+    <string name="error_connect">Ошибка соединения с сервером!</string>
+</resources>
